@@ -1,0 +1,15 @@
+C:\Users\Meet  Kerasiya\source\repos\Stack_Collection\Stack_Collection\bin\Debug\net6.0\Stack_Collection.exe
+C:\Users\Meet  Kerasiya\source\repos\Stack_Collection\Stack_Collection\bin\Debug\net6.0\Stack_Collection.deps.json
+C:\Users\Meet  Kerasiya\source\repos\Stack_Collection\Stack_Collection\bin\Debug\net6.0\Stack_Collection.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\Stack_Collection\Stack_Collection\bin\Debug\net6.0\Stack_Collection.dll
+C:\Users\Meet  Kerasiya\source\repos\Stack_Collection\Stack_Collection\bin\Debug\net6.0\Stack_Collection.pdb
+C:\Users\Meet  Kerasiya\source\repos\Stack_Collection\Stack_Collection\obj\Debug\net6.0\Stack_Collection.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\Stack_Collection\Stack_Collection\obj\Debug\net6.0\Stack_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\Stack_Collection\Stack_Collection\obj\Debug\net6.0\Stack_Collection.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Stack_Collection\Stack_Collection\obj\Debug\net6.0\Stack_Collection.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\Stack_Collection\Stack_Collection\obj\Debug\net6.0\Stack_Collection.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Stack_Collection\Stack_Collection\obj\Debug\net6.0\Stack_Collection.dll
+C:\Users\Meet  Kerasiya\source\repos\Stack_Collection\Stack_Collection\obj\Debug\net6.0\refint\Stack_Collection.dll
+C:\Users\Meet  Kerasiya\source\repos\Stack_Collection\Stack_Collection\obj\Debug\net6.0\Stack_Collection.pdb
+C:\Users\Meet  Kerasiya\source\repos\Stack_Collection\Stack_Collection\obj\Debug\net6.0\Stack_Collection.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\Stack_Collection\Stack_Collection\obj\Debug\net6.0\ref\Stack_Collection.dll
